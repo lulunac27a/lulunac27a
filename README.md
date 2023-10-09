@@ -17,5 +17,5 @@
 Daily Streak:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lulunac27a)](https://git.io/streak-stats)
-<br>Weekly Streak:
+<br><b>Weekly Streak:</b><br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=lulunac27a&mode=weekly)](https://git.io/streak-stats)</details>
