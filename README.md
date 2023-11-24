@@ -13,6 +13,10 @@
 
 ![Overview](https://raw.githubusercontent.com/lulunac27a/github-stats/master/generated/overview.svg)
 ![Languages](https://raw.githubusercontent.com/lulunac27a/github-stats/master/generated/languages.svg)</details>
+<details><summary><b>Developer Power Meter Stats</b></summary>
+
+![lulunac27a github-stats](https://stats.dooboo.io/api/github-stats?login=lulunac27a)
+![lulunac27a github-trophies](https://stats.dooboo.io/api/github-trophies?login=lulunac27a)</details>
 <details><summary><b>GitHub Readme Streak Stats</summary>
 Daily Streak:
 
