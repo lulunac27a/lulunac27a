@@ -7,7 +7,7 @@
 <details><summary><b>Code::Stats Readme</b></summary>
 
 [![lulunac's code::stats stats](https://codestats-readme.avior.me/api?username=lulunac)](https://github.com/lulunac27a/codestats-readme)</details>
-<details open><summary><b>GitHub Metrics</b></summary><img src="github-metrics.svg"/>
+<details open><summary><b>GitHub Metrics</b></summary><img src="github-metrics.svg"/></details>
 
 <details open><summary><b>GitHub Stats</b></summary>
 
