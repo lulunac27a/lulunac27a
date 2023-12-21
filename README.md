@@ -25,5 +25,5 @@ Daily Streak:
 [![GitHub Streak](https://streak-stats.demolab.com?user=lulunac27a&mode=weekly)](https://git.io/streak-stats)</details>
 <details><summary>View Counter</summary>
 
-![](https://hit.yhype.me/github/profile?user_id=100660343)
+![View Counter](https://hit.yhype.me/github/profile?user_id=100660343)
 </details>
