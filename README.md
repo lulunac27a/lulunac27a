@@ -1,5 +1,5 @@
 # My GitHub Stats
-<details open><summary><b>GitHub Readme Stats</b></summary><img align="center" src="https://github-readme-stats.vercel.app/api?username=lulunac27a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="lulunac27a's GitHub stats" />
+<details open><summary><b>GitHub Readme Stats</b></summary><img align="center" src="https://github-readme-stats.vercel.app/api?username=lulunac27a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long" alt="lulunac27a's GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulunac27a&layout=compact&theme=buefy&hide_border=true&langs_count=20"/></details>
 <details open><summary><b>GitHub Trophy Stats</b></summary>
 
