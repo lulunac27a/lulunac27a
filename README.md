@@ -4,11 +4,16 @@
 <details open><summary><b>GitHub Trophy Stats</b></summary>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lulunac27a)](https://github.com/lulunac27a/github-profile-trophy)</details>
+<details><summary><b>GitHub Profile Activity Summary</b></summary>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lulunac27a&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lulunac27a&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lulunac27a&theme=default)
+</details>
+<details open><summary><b>GitHub Metrics</b></summary><img src="github-metrics.svg"/></details>
 <details><summary><b>Code::Stats Readme</b></summary>
 
 [![lulunac's code::stats stats](https://codestats-readme.avior.me/api?username=lulunac)](https://github.com/lulunac27a/codestats-readme)</details>
-<details open><summary><b>GitHub Metrics</b></summary><img src="github-metrics.svg"/></details>
-
 <details open><summary><b>GitHub Stats</b></summary>
 
 ![Overview](https://raw.githubusercontent.com/lulunac27a/github-stats/master/generated/overview.svg)
@@ -17,8 +22,8 @@
 
 ![lulunac27a github-stats](https://stats.dooboo.io/api/github-stats?login=lulunac27a)
 ![lulunac27a github-trophies](https://stats.dooboo.io/api/github-trophies?login=lulunac27a)</details>
-<details><summary><b>GitHub Readme Streak Stats</summary>
-Daily Streak:
+<details><summary><b>GitHub Readme Streak Stats</b></summary>
+<b>Daily Streak:</b>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lulunac27a)](https://git.io/streak-stats)
 <br><b>Weekly Streak:</b><br>
