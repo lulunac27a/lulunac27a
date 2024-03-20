@@ -100,7 +100,3 @@ jobs:
           plugin_discussions_categories_limit: 8
           plugin_traffic: yes
           plugin_gists: yes
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_sections: base
-          plugin_lines_delay: 30
