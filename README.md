@@ -1,6 +1,7 @@
 # About Me
 I am smart, good at computers, math, and programming, and I like astronomy and space.
 # My GitHub Stats
+<details open><summary><b>Show My GitHub Stats</b></summary>
 <details open><summary><b>GitHub View Counter</b></summary>
   
 [![lulunac27a profile views](https://u8views.com/api/v1/github/profiles/100660343/views/day-week-month-total-count.svg)](https://u8views.com/github/lulunac27a)</details>
@@ -38,3 +39,4 @@ I am smart, good at computers, math, and programming, and I like astronomy and s
 [![GitHub Streak](https://streak-stats.demolab.com?user=lulunac27a&mode=weekly)](https://git.io/streak-stats)</details>
 
 ![](https://hit.yhype.me/github/profile?user_id=100660343)
+</details>
