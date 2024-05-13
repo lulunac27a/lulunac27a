@@ -32,11 +32,8 @@ I am smart, good at computers, math, and programming, and I like astronomy and s
 ![lulunac27a github-stats](https://stats.dooboo.io/api/github-stats?login=lulunac27a)
 ![lulunac27a github-trophies](https://stats.dooboo.io/api/github-trophies?login=lulunac27a)</details>
 <details><summary><b>GitHub Readme Streak Stats</b></summary>
-<b>Daily Streak:</b>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lulunac27a)](https://git.io/streak-stats)
-<br><b>Weekly Streak:</b><br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=lulunac27a&mode=weekly)](https://git.io/streak-stats)</details>
 
 ![](https://hit.yhype.me/github/profile?user_id=100660343)
 </details>
