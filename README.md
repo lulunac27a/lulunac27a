@@ -26,7 +26,8 @@ I am smart, good at computers, math, and programming, and I like astronomy and s
 <details open><summary><b>GitHub Stats</b></summary>
 
 ![Overview](https://raw.githubusercontent.com/lulunac27a/github-stats/master/generated/overview.svg)
-![Languages](https://raw.githubusercontent.com/lulunac27a/github-stats/master/generated/languages.svg)</details>
+![Languages](https://raw.githubusercontent.com/lulunac27a/github-stats/master/generated/languages.svg)
+![Detailed Overview](https://raw.githubusercontent.com/lulunac27a/Stats/actions_branch/generated_images/overview.svg)</details>
 <details><summary><b>Developer Power Meter Stats</b></summary>
 
 ![lulunac27a github-stats](https://stats.dooboo.io/api/github-stats?login=lulunac27a)
