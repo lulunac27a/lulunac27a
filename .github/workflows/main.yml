@@ -13,6 +13,12 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
+    - name: Pull latest changes
+      run: git pull origin main
+
+    - name: Push changes
+      run: git push origin main
+  
     - name: Generate the user stats image
       id: statsStep # Only needed if you want to check the exit-code
       uses: cicirello/user-statistician@v1
