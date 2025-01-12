@@ -106,3 +106,6 @@ jobs:
           plugin_discussions_categories_limit: 8
           plugin_traffic: yes
           plugin_gists: yes
+          plugin_stargazers: yes
+          plugin_reactions: yes
+          plugin_reactions_details: count, percentage
