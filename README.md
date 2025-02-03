@@ -2,6 +2,13 @@
 I am smart, good at computers, math, and programming, and I like astronomy and space.
 # My GitHub Stats
 <details open><summary><b>Show My GitHub Stats</b></summary>
+</details>
+<details open><summary><b>Developer Contribution Card</b></summary>
+  <p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/lulunac27a/contributions?format=svg" width="350" />
+    </a>
+</p></details>
 <details open><summary><b>GitHub View Counter</b></summary>
   
 [![lulunac27a profile views](https://u8views.com/api/v1/github/profiles/100660343/views/day-week-month-total-count.svg)](https://u8views.com/github/lulunac27a)</details>
