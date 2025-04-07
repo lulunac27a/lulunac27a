@@ -90,6 +90,7 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 0
           plugin_habits_languages_threshold: 0%
+          plugin_habits_skipped: github-repo-traffic-stats
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
