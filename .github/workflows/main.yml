@@ -90,7 +90,7 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 0
           plugin_habits_languages_threshold: 0%
-          plugin_habits_skipped: lulunac27a/github-repo-traffic-stats, github-repo-traffic-stats, lulunac27a/github-stats, github-stats, lulunac27a-github-stat, github-stat
+          plugin_habits_skipped: lulunac27a/github-repo-traffic-stats, github-repo-traffic-stats, lulunac27a/github-stats, github-stats, lulunac27a/github-stat, github-stat, lulunac27a/lulunac27a, lulunac27a
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
@@ -102,7 +102,6 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_skipped: lulunac27a/github-repo-traffic-stats, github-repo-traffic-stats, lulunac27a/github-stats, github-stats, lulunac27a-github-stat, github-stat
           plugin_languages_threshold: 0%
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8
