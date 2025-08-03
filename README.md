@@ -1,5 +1,5 @@
 # About Me
-I am smart, good at computers, math, and programming, and I like astronomy and space.
+I am smart, intelligent, good at computers, math, and programming, and I like astronomy and space.
 # My GitHub Stats
 <details open><summary><b>Show My GitHub Stats</b></summary>
 </details>
