@@ -43,5 +43,9 @@ I am smart, intelligent, good at computers, math, and programming, and I like as
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lulunac27a)](https://git.io/streak-stats)
 
-![](https://hit.yhype.me/github/profile?user_id=100660343)
-</details>
+![](https://hit.yhype.me/github/profile?user_id=100660343)</details>
+<details><summary><b>GitRanks Rankings</b></summary>
+
+<img src="https://gitranks.com/api/badge/lulunac27a?rankingType=star&template=medium&theme=light" />
+<img src="https://gitranks.com/api/badge/lulunac27a?rankingType=contribution&template=medium&theme=light" />
+<img src="https://gitranks.com/api/badge/lulunac27a?rankingType=follower&template=medium&theme=light" /></details>
