@@ -3,6 +3,7 @@ I am smart, intelligent, good at computers, math, and programming, and I like as
 # My GitHub Stats
 <details open><summary><b>Show My GitHub Stats</b></summary>
 </details>
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D29665)](https://codetime.dev)
 <details open><summary><b>Developer Contribution Card</b></summary>
   <p>
     <a href="https://vaunt.dev">
