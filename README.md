@@ -48,6 +48,6 @@ I am smart, intelligent, good at computers, math, and programming, and I like as
 ![](https://hit.yhype.me/github/profile?user_id=100660343)</details>
 <details><summary><b>GitRanks Rankings</b></summary>
 
-<img src="https://gitranks.com/api/badge/lulunac27a?rankingType=star&template=medium&theme=light" /><img src="https://gitranks.com/api/badge/v2/lulunac27a?ranking=s&context=global&type=tier&meta=percentile&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
-<img src="https://gitranks.com/api/badge/lulunac27a?rankingType=contribution&template=medium&theme=light" /><img src="https://gitranks.com/api/badge/v2/lulunac27a?ranking=c&context=global&type=tier&meta=percentile&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
+<img src="https://gitranks.com/api/badge/lulunac27a?rankingType=star&template=medium&theme=light" /><img src="https://gitranks.com/api/badge/v2/lulunac27a?ranking=s&context=global&type=tier&meta=percentile&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /><br>
+<img src="https://gitranks.com/api/badge/lulunac27a?rankingType=contribution&template=medium&theme=light" /><img src="https://gitranks.com/api/badge/v2/lulunac27a?ranking=c&context=global&type=tier&meta=percentile&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /><br>
 <img src="https://gitranks.com/api/badge/lulunac27a?rankingType=follower&template=medium&theme=light" /><img src="https://gitranks.com/api/badge/v2/lulunac27a?ranking=f&context=global&type=tier&meta=percentile&label=Followers+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></details>
