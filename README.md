@@ -2,7 +2,7 @@
 I am smart, intelligent, good at computers, math, and programming, and I like astronomy and space.
 # My GitHub Stats
 <details open><summary><b>Show My GitHub Stats</b></summary>
-</details>
+
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D29665)](https://codetime.dev)
 <details open><summary><b>Developer Contribution Card</b></summary>
@@ -51,3 +51,4 @@ I am smart, intelligent, good at computers, math, and programming, and I like as
 <img src="https://gitranks.com/api/badge/lulunac27a?rankingType=star&template=medium&theme=light" /><img src="https://gitranks.com/api/badge/v2/lulunac27a?ranking=s&context=global&type=tier&meta=percentile&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /><br>
 <img src="https://gitranks.com/api/badge/lulunac27a?rankingType=contribution&template=medium&theme=light" /><img src="https://gitranks.com/api/badge/v2/lulunac27a?ranking=c&context=global&type=tier&meta=percentile&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /><br>
 <img src="https://gitranks.com/api/badge/lulunac27a?rankingType=follower&template=medium&theme=light" /><img src="https://gitranks.com/api/badge/v2/lulunac27a?ranking=f&context=global&type=tier&meta=percentile&label=Followers+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></details>
+</details>
