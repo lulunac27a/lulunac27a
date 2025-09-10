@@ -5,6 +5,8 @@ I am smart, intelligent, good at computers, math, and programming, and I like as
 
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D29665)](https://codetime.dev)
+<details><summary><b>GitRoll Profile</b></summary>
+  <a href="https://gitroll.io/profile/uYC7ogB9e97hd30ttiid9H57NfvF3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uYC7ogB9e97hd30ttiid9H57NfvF3?theme=light" alt="GitRoll Profile Badge"/></a></details>
 <details open><summary><b>Developer Contribution Card</b></summary>
   <p>
     <a href="https://vaunt.dev">
