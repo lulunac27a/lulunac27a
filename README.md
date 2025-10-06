@@ -23,7 +23,7 @@ I am smart, intelligent, good at computers, math, and programming, and I like as
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulunac27a&layout=compact&theme=buefy&hide_border=true&langs_count=20"/></details>
 <details open><summary><b>GitHub Trophy Stats</b></summary>
 
-[![trophy](https://trophygh.kolioaris.xyz/?username=lulunac27a)](https://github.com/lulunac27a/github-profile-trophy)</details>
+[![trophy](https://trophygh.kolioaris.xyz/?username=lulunac27a)](https://github.com/ryo-ma/github-profile-trophy)</details>
 <details><summary><b>GitHub Profile Activity Summary</b></summary>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lulunac27a&theme=default)
