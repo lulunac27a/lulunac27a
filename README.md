@@ -1,6 +1,11 @@
 # About Me
 I am smart, intelligent, good at computers, math, and programming, and I like astronomy and space.
 # My GitHub Stats
+![Commands](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/lulunac27a/lulunac27a/main/badges/commands.json)
+![Level](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/lulunac27a/lulunac27a/main/badges/level.json)
+![Streak](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/lulunac27a/lulunac27a/main/badges/streak.json)
+![Productivity](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/lulunac27a/lulunac27a/main/badges/productivity.json)
+![Last Active](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/lulunac27a/lulunac27a/main/badges/last-active.json)
 <details open><summary><b>Show My GitHub Stats</b></summary>
 
 
