@@ -4,7 +4,7 @@
 
 ## 📊 Badges
 
-![Xp](https://img.shields.io/badge/XP-Level+1+%280%2F400%29-lightgrey?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-0-lightgrey?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-0+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) 
+![Commands](https://img.shields.io/badge/Commands-0-lightgrey?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-0+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+1+%280%2F400%29-lightgrey?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 🎨 Profile & Stats
 
