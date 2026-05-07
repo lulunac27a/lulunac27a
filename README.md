@@ -6,6 +6,7 @@ I am smart, intelligent, good at computers, math, and programming, and I like as
 ![Streak](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/lulunac27a/lulunac27a/main/badges/streak.json)
 ![Productivity](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/lulunac27a/lulunac27a/main/badges/productivity.json)
 ![Last Active](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/lulunac27a/lulunac27a/main/badges/last-active.json)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=lulunac27a)
 <details open><summary><b>Show My GitHub Stats</b></summary>
 
 
