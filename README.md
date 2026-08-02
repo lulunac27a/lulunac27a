@@ -29,7 +29,7 @@ I am smart, intelligent, good at computers, math, and programming, and I like as
 
 [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)</details>
 <details open><summary><b>GitHub Readme Stats</b></summary><img align="center" src="https://github-stats-extended.vercel.app/api?username=lulunac27a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&rank_icon=percentile" alt="lulunac27a's GitHub stats" />
-<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lulunac27a&layout=compact&theme=buefy&hide_border=true&langs_count=20"/></details>
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lulunac27a&layout=compact&theme=buefy&hide_border=true&langs_count=20&stats_format=bytes"/></details>
 <details open><summary><b>GitHub Trophy Stats</b></summary>
 
 [![trophy](https://trophygh.kolioaris.xyz/?username=lulunac27a)](https://github.com/ryo-ma/github-profile-trophy)</details>
