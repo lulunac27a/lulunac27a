@@ -28,8 +28,8 @@ I am smart, intelligent, good at computers, math, and programming, and I like as
 <details><summary><b>User Statistician</b></summary>
 
 [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)</details>
-<details open><summary><b>GitHub Readme Stats</b></summary><img align="center" src="https://github-readme-stats.vercel.app/api?username=lulunac27a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&rank_icon=percentile" alt="lulunac27a's GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulunac27a&layout=compact&theme=buefy&hide_border=true&langs_count=20"/></details>
+<details open><summary><b>GitHub Readme Stats</b></summary><img align="center" src="https://github-stats-extended.vercel.app/api?username=lulunac27a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&rank_icon=percentile" alt="lulunac27a's GitHub stats" />
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lulunac27a&layout=compact&theme=buefy&hide_border=true&langs_count=20"/></details>
 <details open><summary><b>GitHub Trophy Stats</b></summary>
 
 [![trophy](https://trophygh.kolioaris.xyz/?username=lulunac27a)](https://github.com/ryo-ma/github-profile-trophy)</details>
@@ -62,8 +62,4 @@ I am smart, intelligent, good at computers, math, and programming, and I like as
 <img src="https://gitranks.com/api/badge/lulunac27a?rankingType=star&template=medium&theme=light" /><img src="https://gitranks.com/api/badge/v2/lulunac27a?ranking=s&context=global&type=tier&meta=percentile&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /><br>
 <img src="https://gitranks.com/api/badge/lulunac27a?rankingType=contribution&template=medium&theme=light" /><img src="https://gitranks.com/api/badge/v2/lulunac27a?ranking=c&context=global&type=tier&meta=percentile&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /><br>
 <img src="https://gitranks.com/api/badge/lulunac27a?rankingType=follower&template=medium&theme=light" /><img src="https://gitranks.com/api/badge/v2/lulunac27a?ranking=f&context=global&type=tier&meta=percentile&label=Followers+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></details>
-<details><summary><b>Termonaut Profile</b></summary>
-
-[Termonaut Profile](TERMONAUT_PROFILE.md)
-</details>
 </details>
