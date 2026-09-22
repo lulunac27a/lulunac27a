@@ -58,7 +58,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: uanweize/metrics-community@latest
+      - uses: yuanweize/metrics-community@latest
         with:
           # Your GitHub token
           # The following scopes are required:
