@@ -66,4 +66,12 @@ I am smart, intelligent, good at computers, math, and programming, and I like as
 
 ![GitHub Rank](https://github-ranked.vercel.app/api/rank/lulunac27a?force=true)
 ![GitHub Rank](https://github-ranked.vercel.app/api/rank/lulunac27a)</details>
+<details><summary><b>GitScore</b></summary>
+
+  <a href="https://gitscore.live/lulunac27a">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/lulunac27a?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/lulunac27a?style=card" alt="GitScore for lulunac27a" />
+  </picture>
+</a></details>
 </details>
