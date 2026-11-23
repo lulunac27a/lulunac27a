@@ -62,6 +62,11 @@ I am smart, intelligent, good at computers, math, and programming, and I like as
 <img src="https://gitranks.com/api/badge/lulunac27a?rankingType=star&template=medium&theme=light" /><img src="https://gitranks.com/api/badge/v2/lulunac27a?ranking=s&context=global&type=tier&meta=percentile&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /><br>
 <img src="https://gitranks.com/api/badge/lulunac27a?rankingType=contribution&template=medium&theme=light" /><img src="https://gitranks.com/api/badge/v2/lulunac27a?ranking=c&context=global&type=tier&meta=percentile&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /><br>
 <img src="https://gitranks.com/api/badge/lulunac27a?rankingType=follower&template=medium&theme=light" /><img src="https://gitranks.com/api/badge/v2/lulunac27a?ranking=f&context=global&type=tier&meta=percentile&label=Followers+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></details>
+[![lulunac27a on GitRanks](https://gitranks.com/badge/user/lulunac27a/month.svg)](https://gitranks.com/profile/lulunac27a)
+[![lulunac27a on GitRanks: profile](https://gitranks.com/badge/user/lulunac27a/profile-card.svg)](https://gitranks.com/profile/lulunac27a)
+[![lulunac27a on GitRanks: last 24 months](https://gitranks.com/badge/user/lulunac27a/count-chart.svg)](https://gitranks.com/profile/lulunac27a)
+[![lulunac27a on GitRanks: last 24 months](https://gitranks.com/badge/user/lulunac27a/count-chart.svg?by=contributions)](https://gitranks.com/profile/lulunac27a)
+[![lulunac27a on GitRanks: last 24 months](https://gitranks.com/badge/user/lulunac27a/count-chart.svg?by=followers)](https://gitranks.com/profile/lulunac27a)
 <details><summary><b>GitHub Ranked</b></summary>
 
 ![GitHub Rank](https://github-ranked.vercel.app/api/rank/lulunac27a?force=true)
